@@ -11,6 +11,7 @@ const config: Config = {
       colors: {
           'dark-bej': '#E2D1C3',
           'white-bej': '#FDFCFB',
+          'doar-bej': '#eee5dd',
           'albastru': '#22405c'
       },
       backgroundImage: {
