@@ -18,7 +18,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`inter.className bg-gradient-to-r from-dark-bej to-white-bej`}>
+      <body className={`inter.className min-w-[500px] bg-doar-bej sm:bg-gradient-to-r from-dark-bej to-white-bej `}> 
+      {/* //bg-gradient-to-r from-dark-bej to-white-bej */}
 
       <div className="flex flex-col w-full h-screen">
               <NavBar />
