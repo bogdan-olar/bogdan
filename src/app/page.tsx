@@ -15,7 +15,7 @@ export default function Home() {
           <h3 className='text-xl py-4 text-blue-800'> Hi, my name is </h3>
           <h1 className='text-3xl font-bold inline-block bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 text-transparent bg-clip-text'> Olar Bogdan. </h1>
           <h2 className='text-2xl my-2 text-blue-800'> I build awesome web applications. </h2>
-          <div className='text-lg py-2 leading-loose'> I'm a junior front end developer, building web application used in financial world. Currently i'm building a financial calculator best suited for quantitative analysis. </div>
+          <div className='text-lg py-2 leading-loose'> I am a junior Front-end developer, with a strong passion for creating engaging web applications. My main focus is on using HTML, CSS, JavaScript, TypeScript, React Js and Next Js to build responsive and accessible applications. I am a friendly and approachable person, with the ability to work well in teams.</div>
           <div className='border border-blue-600 w-64 text-center text-blue-600 py-4 my-8 hover:text-blue-800 transition duration-300 flex justify-evenly items-center'> 
             <Link href='/proiecte'> Check out my project! </Link> <BoxIcon />  
           </div>
