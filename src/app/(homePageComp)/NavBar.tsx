@@ -18,11 +18,11 @@ export default function NavBar() {
     return (
         <div className="min-h-14"> 
             <div className="container mx-auto mt-4 flex justify-between items-center max-w-screen-2xl">
-                <div className="text-2xl px-8">
+                <div className="px-8">
                     <Link href='/' className="hover:text-blue-600 transition duration-500"> 
-                        <button className="px-4 py-2 mr-4 rounded-full text-dark-bej bg-gradient-to-r from-cyan-500 to-blue-500"> 
+                        <button className="px-4 py-2 mr-4 text-2xl rounded-full text-dark-bej bg-gradient-to-r from-cyan-500 to-blue-500"> 
                         B </button> 
-                        Bogdan Olar 
+                        <span className="text-lg sm:text-2xl"> Bogdan Olar </span>
                     </Link>
                 </div>
                 <div className="flex">
