@@ -32,7 +32,7 @@ export default function NavBar() {
                     }
                     <Link href='/' className="px-8 font-medium hover:text-blue-600 transition duration-500 hidden lg:block"> Home </Link>
                     <Link href='/cv' className="px-8 font-medium hover:text-blue-600 transition duration-500 hidden lg:block"> Curiculum Vitae </Link>
-                    <Link href='/proiecte' className="px-8 font-medium hover:text-blue-600 transition duration-500 hidden lg:block"> Proiecte </Link>
+                    <Link href='/proiecte' className="px-8 font-medium hover:text-blue-600 transition duration-500 hidden lg:block"> Projects </Link>
                     <Link href='contact' className="px-8 font-medium hover:text-blue-600 transition duration-500 hidden lg:block"> Contact </Link>
                 </div>
             </div>
