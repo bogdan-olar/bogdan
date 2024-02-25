@@ -29,7 +29,7 @@ export default function Cv() {
 
                             <div className="flex items-center container mx-auto py-2  px-5 gap-4 ">
                                 <EmailMic />
-                                <div> olarbogdan@rocketmail.com </div>
+                                <div> costan.olar@gmail.com </div>
                             </div>
                         
                             <div className="flex items-center container mx-auto py-2 px-5 gap-4 " > 
@@ -40,7 +40,7 @@ export default function Cv() {
                             <div className="flex items-center container py-2 px-5 gap-4 mx-auto">
                                 <LinkedInMic />
                                 <div className="underline">
-                                    <Link href="https://www.linkedin.com/in/bogdan-olar-99239b18a"> Olar Bogdan </Link>
+                                    <Link href="https://www.linkedin.com/in/bogdan-olar-99239b18a"> Olar Costan Bogdan </Link>
                                 </div>
                             </div>
                     </div>
@@ -90,10 +90,10 @@ export default function Cv() {
 
                         <div className="m-10">
                             <div className='text-xl font-medium underline underline-offset-4 m-3'> PERSONALITY </div>
-                            <div className="m-2 mx-4"> Comunicativ </div>
+                            <div className="m-2 mx-4"> Communicative </div>
                             <div className="m-2 mx-4"> Punctual </div>
-                            <div className="m-2 mx-4"> Organizat </div>
-                            <div className="m-2 mx-4"> Creativ </div>
+                            <div className="m-2 mx-4"> Organised </div>
+                            <div className="m-2 mx-4"> Creative </div>
                         </div>
                 </div>
 
@@ -109,7 +109,7 @@ export default function Cv() {
                             <Calendar /> 2005 - 2007
                         </div> 
                         <div> University “Lucian Blaga” Sibiu - Faculty of Economic Science </div>
-                        <div><b> Master - Financial Managament of Corporation </b></div>
+                        <div><b> Master - Financial Management of Corporation </b></div>
                     </div>
 
                     <div className='m-8'>
